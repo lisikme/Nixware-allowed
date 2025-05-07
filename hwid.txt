@@ -5,3 +5,4 @@
 .Ruda_Tester.
 .FARTITIKOS.
 .tema041020.
+.dokerok.
