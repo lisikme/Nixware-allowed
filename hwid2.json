@@ -22,10 +22,11 @@
         "litukindin",
         "srx",
         "Toxcik",
-        "Danonchik_1488"
+        "Danonchik_1488",
+        "kelixme"
     ],
     "banned": [
-        {"kelixme", "Оскорбление"},
-        {"Toxcik", "Тимейт"}
+        {"test1", "Оскорбление"},
+        {"test2", "Тимейт"}
     ]
 }
