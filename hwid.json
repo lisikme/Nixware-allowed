@@ -29,10 +29,11 @@
         "xzxzww",
         "letgobaby1312",
         "muctu496",
-        "KS1fon"
+        "KS1fon",
+        "Danonchik_1488",
     ],
     "banned": [
-        {"test1", "Снят с медиа!"},
+        {"Danonchik_1488", "Слив lua без согласия kelix.me"},
         {"test2", "Тимейт"}
     ]
 }
