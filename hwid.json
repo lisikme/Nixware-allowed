@@ -4,7 +4,6 @@
         "pashaddddd",
         "hulikdulik",
         "qweqweqweqweqweqwewqeqeqw",
-        "Ruda_Tester",
         "FARTITIKOS",
         "tema041020",
         "dokerok",
@@ -13,7 +12,6 @@
         "extm",
         "Heheb",
         "ghjkgh",
-        "Aleksey_Petrov",
         "NYAZ",
         "artemka3333",
         "shayn1337",
@@ -23,7 +21,6 @@
         "litukindin",
         "srx",
         "Toxcik",
-        "kelixme",
         "dimaka11121",
         "Tradeta1337",
         "xzxzww",
@@ -34,11 +31,12 @@
         "Lonelyvae",
         "Malibuca",
         "0blomee",
-        "NAYZ",
-        "jopa_negra"
-    ],
+        "jopa_negra",
+        "Aleksey_Petrov",
+        "Ruda_Tester",
+        "kelixme"
+    ]
     "banned": [
-        {"Danonchik_1488", "Слив lua без согласия kelix.me"},
-        {"test2", "Тимейт"}
+        {"Danonchik", "Слив lua без согласия kelix.me"}
     ]
 }
