@@ -36,10 +36,5 @@
     "Ruda_Tester",
     "LOLKEKDILDO"
   ],
-  "banned": [
-    {
-      "User": "kelixme",
-      "Reason": "ntcnweb"
-    }
-  ]
+  "banned": []
 }
