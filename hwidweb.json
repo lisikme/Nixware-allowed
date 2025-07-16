@@ -34,8 +34,12 @@
     "jopa_negra",
     "Aleksey_Petrov",
     "Ruda_Tester",
-    "kelixme",
     "LOLKEKDILDO"
   ],
-  "banned": []
+  "banned": [
+    {
+      "User": "kelixme",
+      "Reason": "ntcnweb"
+    }
+  ]
 }
