@@ -1,0 +1,34 @@
+{
+    "payment_labels": {
+        "858396938": {
+            "label": "user_858396938_1752565782.5648513",
+            "category": "Утилиты для игр",
+            "item": "KensoLUA + CFG",
+            "price": 150,
+            "status": "expired",
+            "message_id": 811,
+            "timestamp": 1752565782.5648513
+        }
+    },
+    "transactions": [],
+    "categories": {
+        "Утилиты для игр": {
+            "items": {
+                "KensoLUA + CFG": {
+                    "price": 150,
+                    "message": "Тариф: ВипПак+\n(CFG + LUA)\n\nhttps://t.me/+SeYba1lVxeZmM2Ri",
+                    "keys_limit": 0
+                },
+                "KensoLUA + CFG + BOOST-PING": {
+                    "price": 300,
+                    "message": "Тариф: ПремиумПак\n(CFG + LUA + TickRate-Boost)\n\nhttps://t.me/+SeYba1lVxeZmM2Ri",
+                    "keys_limit": 0
+                }
+            }
+        }
+    },
+    "keys": {},
+    "admins": [
+        123456789
+    ]
+}
