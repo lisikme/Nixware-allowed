@@ -34,10 +34,14 @@
     "Malibuca",
     "0blomee",
     "jopa_negra",
-    "Aleksey_Petrov",
     "Ruda_Tester",
     "LOLKEKDILDO",
     "dfghh"
   ],
-  "banned": []
+  "banned": [
+    {
+      "User": "Aleksey_Petrov",
+      "Reason": "\u0427\u0438\u0442\u044b"
+    }
+  ]
 }
