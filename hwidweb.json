@@ -38,8 +38,12 @@
     "LOLKEKDILDO",
     "Aleksey_Petrov",
     "neruon1x",
-    "sanyanzh86",
-    "testuser"
+    "sanyanzh86"
   ],
-  "banned": []
+  "banned": [
+    {
+      "User": "testuser",
+      "Reason": "\u0440\u0432\u043e\u043b\u0432\u0443\u0440\u0430\u043b\u043e\u0440\u043b\u043e"
+    }
+  ]
 }
