@@ -43,7 +43,7 @@
   "banned": [
     {
       "User": "testuser",
-      "Reason": "\u0440\u0432\u043e\u043b\u0432\u0443\u0440\u0430\u043b\u043e\u0440\u043b\u043e"
+      "Reason": "999"
     }
   ]
 }
