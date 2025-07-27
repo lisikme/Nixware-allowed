@@ -40,10 +40,5 @@
     "neruon1x",
     "sanyanzh86"
   ],
-  "banned": [
-    {
-      "User": "testuser",
-      "Reason": "Test"
-    }
-  ]
+  "banned": []
 }
