@@ -41,9 +41,5 @@
     "sanyanzh86"
   ],
   "banned": [
-    {
-      "User": "testuser",
-      "Reason": "8888"
-    }
   ]
 }
