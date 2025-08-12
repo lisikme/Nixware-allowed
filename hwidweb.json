@@ -40,10 +40,5 @@
     "sanyanzh86",
     "Blancat2"
   ],
-  "banned": [
-    {
-      "User": "Aleksey_Petrov",
-      "Reason": "\u0414\u043e\u043a\u0441 \u0430\u0432\u0442\u043e\u0440\u0430 lua"
-    }
-  ]
+  "banned": []
 }
