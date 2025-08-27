@@ -49,9 +49,5 @@
     "unluckyyy"
   ],
   "banned": [
-    {
-      "User": "test",
-      "Reason": "text"
-    }
   ]
 }
