@@ -46,8 +46,12 @@
     "budapeshtov",
     "matteo2",
     "Rem1nd",
-    "unluckyyy",
-    "test"
+    "unluckyyy"
   ],
-  "banned": []
+  "banned": [
+    {
+      "User": "test",
+      "Reason": "text"
+    }
+  ]
 }
