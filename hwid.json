@@ -1,5 +1,5 @@
 {
-    "users": [
+    "users:": [
         "kelixme",
         "ManagerHWID",
         "memoryWW",
@@ -49,9 +49,12 @@
         "unluckyyy",
         "ezza12345",
         "twistz222",
+        "nixwarejk",
         "qwryq",
         "nafek12",
         "W9DEX"
     ]
-    "banned": []
+    "banned": [
+        
+    ]
 }
