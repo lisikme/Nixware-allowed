@@ -1,4 +1,5 @@
 {
-  "lastver": "3.4"
-  "lastverformat": "v%s Stable"
+  "lastver": "3.4",
+  "lastverformat": "v%s Stable",
+  "clientver": "1.41.0.1"
 }
