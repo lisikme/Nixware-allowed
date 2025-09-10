@@ -2,6 +2,6 @@
     "lastver": "3.8.1",
     "lastverformat": "v%s Stable",
     "clientver": "1.41.0.2",
-    "updateinfo": "Начат процесс рекодинга\n\nНайдена более новая версия: v%s\nВерсии ниже чем v3.6 не поддерживается\n\nОбновления временно недоступны!",
+    "updateinfo": "Начат процесс рекодинга\n\nНайдена более новая версия: v%s\nВерсии ниже чем v3.8.1 не поддерживается\n\nОбновления временно недоступны!",
     "wh0": "https://discord.com/api/webhooks/1415101611382018179/AKy5vth5_UgZ2CMtIbj14bAwymgX7gvzDpZseQwZXcrB9WaWb-UuOWZjoyptjVfjpfbs"
 }
