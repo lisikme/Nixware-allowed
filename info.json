@@ -2,7 +2,7 @@
     "lastver": "3.8.4.RE",
     "lastverformat": "v%s Stable",
     "clientver": "1.41.0.3",
-    "updateinfo": "Актуальная версия: v%s\n\nОбновления доступны только через телеграмм\n\nВерсии ниже чем 3.8.2 не работает мониторинг",
+    "updateinfo": "Актуальная версия: v%s\n\nОбновления доступны только через телеграмм\n\nВажно знать:\nВерсии ниже чем 3.8.2 не работает мониторинг\nиз разногласий с проектом REHVH\nпроблема исправлена в новых версиях",
     "wh0": "https://discord.com/api/webhooks/1415101611382018179/AKy5vth5_UgZ2CMtIbj14bAwymgX7gvzDpZseQwZXcrB9WaWb-UuOWZjoyptjVfjpfbs",
     "hwidinfo": "Версии ниже чем v3.8.1 не поддерживается"
 }
