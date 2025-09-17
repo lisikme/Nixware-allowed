@@ -1,7 +1,7 @@
 {
     "lastver": "3.9.1.RE",
     "lastverformat": "v%s",
-    "clientver": "1.41.0.3",
+    "clientver": "1.41.0.4",
     "updateinfo": "Актуальная версия: v%s\n\n- Новый шрифт в меню\n- Новый дизайн меню\n- Добавлена анимация для сладеров\n- Исправлены баги мониторинга\n\nОЧЕНЬ ВАЖНО!!!\n- Начиная с этой версии старые конфиги несовместимы\n\nСистема HWID в этой версии без изменений!",
     "wh0": "https://discord.com/api/webhooks/1415101611382018179/AKy5vth5_UgZ2CMtIbj14bAwymgX7gvzDpZseQwZXcrB9WaWb-UuOWZjoyptjVfjpfbs",
     "hwidinfo": "Версии ниже чем v3.8.1 не поддерживается"
