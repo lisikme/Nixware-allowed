@@ -1,5 +1,5 @@
 {
-    "lastver": "3.9.2.RE",
+    "lastver": "3.9.3.RE",
     "lastverformat": "v%s",
     "clientver": "1.41.0.6",
     "updateinfo": "Актуальная версия: v%s\n\n- Временно поставил проксирование через зеркало \n- raw.githubusercontent.com на rawgithubusercontent.deno.dev\n\nОЧЕНЬ ВАЖНО!!!\n- Начиная с версии v3.9.1.RE старые конфиги несовместимы\n\nСистема HWID в этой версии без изменений!",
