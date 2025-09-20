@@ -2,8 +2,7 @@
     "bindings": [
         {
             "HWID": "kelixme",
-            "TELEGRAM_ID": "858396938",
-            "TELEGRAM_USERNAME": "lisikme"
+            "TELEGRAM": "858396938"
         }
     ]
 }
