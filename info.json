@@ -6,7 +6,7 @@
     "wh0": "https://discordproxyv3.vercel.app/api/webhooks/1415101611382018179/AKy5vth5_UgZ2CMtIbj14bAwymgX7gvzDpZseQwZXcrB9WaWb-UuOWZjoyptjVfjpfbs",
     "hwidinfo": "Версии ниже чем v3.8.1 не поддерживается",
     "apics2servers": {
-        "host": "kensolua.ru",
+        "host": "apics2.ketame.ru",
         "port": "43035",
         "toggle": false
     }
