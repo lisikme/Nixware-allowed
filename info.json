@@ -8,6 +8,6 @@
     "apics2servers": {
         "host": "apics2.ketame.ru",
         "port": "43035",
-        "toggle": false
+        "toggle": true
     }
 }
