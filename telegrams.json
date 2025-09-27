@@ -1,10 +1,6 @@
 {
     "bindings": [
         {
-            "HWID": "kelixme",
-            "TELEGRAM": 858396938
-        },
-        {
             "HWID": "bennyfrans272",
             "TELEGRAM": 5778208205
         },
@@ -83,6 +79,10 @@
         {
             "HWID": "wazyyl",
             "TELEGRAM": "5933192552"
+        },
+        {
+            "HWID": "kelixme",
+            "TELEGRAM": "0"
         }
     ]
 }
