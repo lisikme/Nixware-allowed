@@ -2,12 +2,12 @@
     "lastver": "3.9.9.RE",
     "lastverformat": "v%s",
     "clientver": "1.41.0.8",
-    "updateinfo": "Актуальная версия: v%s\n\n- Улучшена система отладки\n\nОЧЕНЬ ВАЖНО!!!\n- Начиная с версии v3.9.1.RE старые конфиги несовместимы\n\nСистема HWID в этой версии без изменений!",
+    "updateinfo": "Актуальная версия: v%s\n\n- Добавлена поддержка DiscordRPC\n\nОЧЕНЬ ВАЖНО!!!\n- Начиная с версии v3.9.1.RE старые конфиги несовместимы\n\nСистема HWID в этой версии без изменений!",
     "wh0": "https://discordproxyv3.vercel.app/api/webhooks/1415101611382018179/AKy5vth5_UgZ2CMtIbj14bAwymgX7gvzDpZseQwZXcrB9WaWb-UuOWZjoyptjVfjpfbs",
     "hwidinfo": "Версии ниже чем v3.8.1 не поддерживается",
     "apics2servers": {
-        "host": "apics2.ketame.ru",
-        "port": "43035",
+        "host": "212.22.80.111",
+        "port": "13753",
         "toggle": true
     }
 }
