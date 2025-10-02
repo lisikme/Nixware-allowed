@@ -1,8 +1,8 @@
 {
     "lastver": "4.1.2.RE",
     "lastverformat": "v%s",
-    "clientver": "1.41.0.8",
-    "updateinfo": "Актуальная версия: v%s\n\n- Убрана отладка которая понижала FPS\n\nОЧЕНЬ ВАЖНО!!!\n- Начиная с версии v3.9.1.RE старые конфиги несовместимы\n\nСистема HWID в этой версии без изменений!",
+    "clientver": "1.41.0.9",
+    "updateinfo": "Актуальная версия: v%s\n\n- Добавлен пропуск начальной заставки команды\n\nОЧЕНЬ ВАЖНО!!!\n- Начиная с версии v3.9.1.RE старые конфиги несовместимы\n\nСистема HWID в этой версии без изменений!",
     "wh0": "https://discordproxyv3.vercel.app/api/webhooks/1415101611382018179/AKy5vth5_UgZ2CMtIbj14bAwymgX7gvzDpZseQwZXcrB9WaWb-UuOWZjoyptjVfjpfbs",
     "hwidinfo": "Версии ниже чем v3.8.1 не поддерживается",
     "apics2servers": {
