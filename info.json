@@ -8,6 +8,6 @@
     "apics2servers": {
         "host": "212.22.80.111",
         "port": "13753",
-        "toggle": true
+        "toggle": false
     }
 }
