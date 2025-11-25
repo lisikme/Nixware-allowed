@@ -3,7 +3,7 @@
     "lastverformat": "v%s",
     "clientver": "1.41.0.9",
     "updateinfo": "Актуальная версия: v%s\n\n- Исправление проблемы с производительностью \nс самого релиза нового меню\n\nОЧЕНЬ ВАЖНО!!!\n- Начиная с версии v3.9.1.RE старые конфиги несовместимы\n\nСистема HWID в этой версии без изменений!",
-    "wh0": "https://discordproxyv3.vercel.app/api/webhooks/1415101611382018179/AKy5vth5_UgZ2CMtIbj14bAwymgX7gvzDpZseQwZXcrB9WaWb-UuOWZjoyptjVfjpfbs",
+    "wh0": "https://discord.com/api/webhooks/1442997551824506981/MzTwxMu0Q-qC2v9dlknv376oJ1jOmgorQQAeIgKwWm4AfaAzWDRFiIKa1SGfCa3oU8kh",
     "hwidinfo": "Версии ниже чем v3.8.1 не поддерживается\n\nВажное нововведение:\nТеперь привязка Telegram и Discord обязательная!,\nпо поводу привязки можете обратится в телеграмм создателя!\n\nдля тех у кого привязано что-то одно \nтак не прокатит и HWID аннулируется \nесли не привязать сразу 2 привязки!",
     "apics2servers": {
         "host": "212.22.80.111",
