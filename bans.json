@@ -14,5 +14,9 @@
     "unluckyyy": {
         "ban_reason": "Булинг",
         "ban_temp": "-1"
+    },
+    "0blomee": {
+        "ban_reason": "Мошеничевство, угрозы, булинг и слив данных",
+        "ban_temp": "-1"
     }
 }
