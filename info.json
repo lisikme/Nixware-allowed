@@ -2,9 +2,9 @@
     "lastver": "4.4.1.PRO+",
     "lastverformat": "v%s",
     "clientver": "1.41.0.9",
-    "updateinfo": "Актуальная версия: v%s\n\n- Вмеременно отлючена функция трасеров выстрелов\n\nОЧЕНЬ ВАЖНО!!!\n- Начиная с версии v3.9.1.RE старые конфиги несовместимы\n\nСистема HWID в этой версии без изменений!",
+    "updateinfo": "Актуальная версия: v%s\n\nПодробная информация в телеграмм канале...\n\nВажные изменение HWID системы!",
     "wh0": "https://proxy.sakuri.ru/api/proxy?secret-key=%22eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2Rpc2NvcmQuY29tL2FwaS93ZWJob29rcy8xNDQyOTk3NTUxODI0NTA2OTgxL016VHd4TXUwUS1xQzJ2OWRsa252Mzc2b0oxak9tZ29yUVFBZUlnS3dXbTRBZmFBeldEUkZpSUthMVNHZkNhM29VOGtoIiwiaWF0IjoxNzczNjk2NjMwfQ.LTQzOTYyM2E1c3VwZXItc2U%22",
-    "hwidinfo": "Версии ниже чем v3.3.1.RE+ не поддерживается\n\nВажное исправление!\n- Исправлен API для проверки HWID на актуальный!\n\nВажно если буду сбои в работе!\n- Сообщайте о проблеме сразу в противном случае проблема будет решатся дольше!\n\nПланируется изменить HWID проверку в будущем!",
+    "hwidinfo": "Версии ниже чем v4.3.1.RE+ не поддерживается\n\nВажное исправление!\n- Исправлен API для проверки HWID на актуальный!\n\nВажно если буду сбои в работе!\n- Сообщайте о проблеме сразу в противном случае проблема будет решатся дольше!\n\nПланируется изменить HWID проверку в будущем!",
     "apics2servers": {
         "host": "212.22.80.111",
         "port": "13753",
