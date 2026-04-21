@@ -1,0 +1,16 @@
+        {
+            "application_id": "",
+            "statuses": [
+                {
+                    "state": "",
+                    "details": "",
+                    "buttons": [
+                        {"label": "Сайт проекта", "url": "https://kenso.ketame.ru/"}
+                    ]
+                }
+            ],
+            "update_interval": 5,
+            "config_check_interval": 5,
+            "show": false
+        }
+    
