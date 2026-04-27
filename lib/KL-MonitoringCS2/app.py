@@ -135,7 +135,7 @@ async def get_server_info(server_ip, server_port):
         
         # Парсим информацию о сервере
         if hasattr(info, 'version'):
-            server_version = str(info.version).strip()
+            server_version = str(info.version).strip() # type: ignore
         elif isinstance(info, dict):
             server_version = str(info.get('version', 'unknown')).strip()
         else:

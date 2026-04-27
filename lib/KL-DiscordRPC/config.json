@@ -1,9 +1,9 @@
         {
-            "application_id": "",
+            "application_id": "1393856315067203635",
             "statuses": [
                 {
-                    "state": "",
-                    "details": "",
+                    "state": "Kills: 78530",
+                    "details": "◣ Nixware.cc ◢",
                     "buttons": [
                         {"label": "Сайт проекта", "url": "https://kenso.ketame.ru/"}
                     ]
@@ -11,6 +11,6 @@
             ],
             "update_interval": 5,
             "config_check_interval": 5,
-            "show": false
+            "show": true
         }
     
