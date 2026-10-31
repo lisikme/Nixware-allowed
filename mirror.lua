@@ -884,7 +884,7 @@ end
 render_preload = false
 
 -- =================================================================================================
--- Шрифты для окна "Технические работы"
+-- Шрифты для окна "Хостинг недоступен"
 -- =================================================================================================
 font_title  = render.setup_font(fontpatch2, 30, 055)
 font_text   = render.setup_font(fontpatch2, 16, 055)
@@ -919,40 +919,27 @@ register_callback("paint", function()
         )
 
         -- Заголовок
-        render.text('Технические работы', font_title,
+        render.text('Хостинг недоступен', font_title,
             vec2_t(win_left + 30, win_top + 30),
-            color_t(255/255, 255/255, 255/255, 1))
+            color_t(230/255, 80/255, 80/255, 1))
 
         -- ===== Текстовые блоки =====
         local text_left    = win_left + 30
         local text_start_y = win_top + 90
         local line_height  = 26
 
-        render.text('Уважаемые пользователи!', font_text,
+        render.text('Хостинг не доступен или отключён', font_text,
             vec2_t(text_left, text_start_y),
             color_t(230/255, 80/255, 80/255, 1))
 
-        render.text('В данный момент проводятся технические работы.\nПриносим извинения за временные неудобства.', font_text,
+        render.text('Свяжитесь с админом\nдля уточнения деталей', font_text,
             vec2_t(text_left, text_start_y + line_height),
             color_t(120/255, 120/255, 120/255, 1))
 
         local info_y = text_start_y + line_height * 4
-        render.text('Информация:', font_text,
+        render.text('или проверьте новости', font_text,
             vec2_t(text_left, info_y),
             color_t(215/255, 254/255, 123/255, 1))
-
-        render.text('• Статус: обновление системы', font_text,
-            vec2_t(text_left, info_y + line_height),
-            color_t(120/255, 120/255, 120/255, 1))
-
-        local contact_y = info_y + line_height * 4
-        render.text('Контакты для связи:', font_text,
-            vec2_t(text_left, contact_y),
-            color_t(215/255, 254/255, 123/255, 1))
-
-        render.text('t.me/kenso_support', font_text,
-            vec2_t(text_left, contact_y + line_height),
-            color_t(120/255, 120/255, 120/255, 1))
 
         -- ===== Аватарка (справа) =====
         local av_w, av_h = 300, 355
